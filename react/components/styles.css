@@ -1,0 +1,4 @@
+.custom-grid__item-big {
+  width: calc(50% -20px);
+  background-color: deeppink;
+}
