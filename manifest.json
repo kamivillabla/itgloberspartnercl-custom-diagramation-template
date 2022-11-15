@@ -3,7 +3,7 @@
   "name": "special-diagramation",
   "version": "0.0.1",
   "title": "Diagramación especial",
-  "description": "Grilla interactiva que cambiara un orden y recibira un componente hijo",
+  "description": "Grilla interactiva que cambiara el orden desde site-editor y recibira componentes hijos",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
